@@ -6,18 +6,18 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "cookie-parser": "1.4.4",
+    "cookie-parser": "1.4.6",
     "csurf": "1.10.0",
     "debug": "2.6.9",
-    "ejs": "2.6.1",
-    "express": "4.16.1",
-    "express-session": "1.17.0",
+    "ejs": "2.6.2",
+    "express": "4.16.4",
+    "express-session": "1.17.3",
     "http-errors": "1.6.3",
-    "libxmljs": "0.19.7",
+    "libxmljs": "0.19.10",
     "morgan": "1.9.1",
     "mysql": "2.17.1",
     "node-serialize": "0.0.4",
-    "passport": "0.4.0",
+    "passport": "0.4.1",
     "passport-local": "1.0.0"
   }
 }
